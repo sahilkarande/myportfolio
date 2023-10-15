@@ -4,12 +4,12 @@ Welcome to my personal portfolio! This is a work in progress, and I'm excited to
 
 ## About Me
 
-I'm [Your Name], a passionate and driven [Your Profession/Field] with a strong interest in [Your Interests/Specializations]. I believe in the power of technology to solve real-world problems and constantly strive to improve my skills.
+I'm Sahil Karande, a passionate and driven Student with a strong interest in Data Science Aspirant. I believe in the power of technology to solve real-world problems and constantly strive to improve my skills.
 
 - 🌐 **Website**: [Your Website URL]
-- 📧 **Email**: [Your Email Address]
-- 📱 **LinkedIn**: [Your LinkedIn Profile]
-- 📷 **Instagram**: [Your Instagram Profile]
+- 📧 **Email**: skarande220@gmail.com
+- 📱 **LinkedIn**: https://www.linkedin.com/in/sahil-karande-a77aa7207/
+- 📷 **Instagram**: https://www.instagram.com/escaee/
 
 ## Resume
 
@@ -17,28 +17,13 @@ My professional background and experience are detailed in my resume. I'm current
 
 ## Projects
 
-I'm passionate about creating and building, and I have worked on a variety of exciting projects. Here's a sneak peek at some of my ongoing and completed projects:
-
-1. **Project 1**: [Project 1 Title]
-   - Description: [Brief project description]
-   - GitHub Repository: [Link to GitHub]
-   - Live Demo: [Link to Demo]
-   
-2. **Project 2**: [Project 2 Title]
-   - Description: [Brief project description]
-   - GitHub Repository: [Link to GitHub]
-   - Live Demo: [Link to Demo]
-
-3. **Project 3**: [Project 3 Title]
-   - Description: [Brief project description]
-   - GitHub Repository: [Link to GitHub]
-   - Live Demo: [Link to Demo]
+I'm passionate about creating and building, and I have worked on a variety of exciting projects.
 
 Please stay tuned as I continue to update and add more projects to my portfolio.
 
 ## Contact Form
 
-I would love to connect and collaborate with you. Feel free to reach out to me through the contact form on my website or via email at [Your Email Address].
+I would love to connect and collaborate with you. Feel free to reach out to me through the contact form on my website or via email at skarande220@gmail.com
 
 **Note:** This portfolio is a continuous work in progress, and I'm actively working on improving and expanding its content. Your feedback is highly appreciated.
 
@@ -46,7 +31,23 @@ Thank you for visiting, and I look forward to sharing more exciting updates with
 
 ---
 
-*Last Updated: [Date]*
+*Last Updated: 15-10-2023*
 
-[Optional: Add badges for technologies, languages, or frameworks you're skilled in, and customize the style to match your personal branding.]
+## About Me
+
+I'm a technology enthusiast with expertise in various languages and frameworks. Here are some of the technologies I specialize in:
+
+[![HTML5](https://img.shields.io/badge/HTML5-Expert-blue.svg)](https://www.w3.org/TR/html52/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-Intermediate-orange.svg)](https://www.python.org/)
+[![React](https://img.shields.io/badge/React-Advanced-blue.svg)](https://reactjs.org/)
+
+## Projects
+
+My projects are built with a variety of technologies. Here are some of the badges related to the technologies I use in these projects:
+
+[![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green.svg)](https://nodejs.org/)
+[![Django](https://img.shields.io/badge/Django-Expert-brightgreen.svg)](https://www.djangoproject.com/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-Advanced-brightgreen.svg)](https://vuejs.org/)
+
 
