@@ -35,19 +35,23 @@ Thank you for visiting, and I look forward to sharing more exciting updates with
 
 ## About Me
 
-I'm a technology enthusiast with expertise in various languages and frameworks. Here are some of the technologies I specialize in:
+I'm a technology enthusiast with expertise in the following languages and frameworks:
 
 [![HTML5](https://img.shields.io/badge/HTML5-Expert-blue.svg)](https://www.w3.org/TR/html52/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![CSS](https://img.shields.io/badge/CSS-Expert-blue.svg)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Expert-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![SQL](https://img.shields.io/badge/SQL-Expert-blue.svg)](https://www.w3schools.com/sql/)
+[![PHP](https://img.shields.io/badge/PHP-Intermediate-orange.svg)](https://www.php.net/)
+[![React](https://img.shields.io/badge/React-Intermediate-orange.svg)](https://reactjs.org/)
 [![Python](https://img.shields.io/badge/Python-Intermediate-orange.svg)](https://www.python.org/)
-[![React](https://img.shields.io/badge/React-Advanced-blue.svg)](https://reactjs.org/)
 
 ## Projects
 
-My projects are built with a variety of technologies. Here are some of the badges related to the technologies I use in these projects:
+I've worked on a variety of projects that utilize these technologies. Here are some of the badges related to the technologies I've used in these projects:
 
-[![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green.svg)](https://nodejs.org/)
-[![Django](https://img.shields.io/badge/Django-Expert-brightgreen.svg)](https://www.djangoproject.com/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-Advanced-brightgreen.svg)](https://vuejs.org/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Learning-yellow.svg)](https://powerbi.microsoft.com/en-us/)
+[![Excel](https://img.shields.io/badge/Excel-Intermediate-orange.svg)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Frontend](https://img.shields.io/badge/Frontend-Expert-brightgreen.svg)](https://developer.mozilla.org/en-US/docs/Web/Front-end)
+[![Backend](https://img.shields.io/badge/Backend-Expert-brightgreen.svg)](https://developer.mozilla.org/en-US/docs/Web/Back-end)
 
 
