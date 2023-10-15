@@ -2,9 +2,36 @@
 
 Welcome to my personal portfolio! This is a work in progress, and I'm excited to share my journey and showcase my technical skills. 
 
+Here is an overview of my website:
+![Website Overview](assets/images/website%20overview.png)
+
+
 ## About Me
 
 I'm Sahil Karande, a passionate and driven Student with a strong interest in Data Science Aspirant. I believe in the power of technology to solve real-world problems and constantly strive to improve my skills.
+
+
+I'm a technology enthusiast with expertise in the following languages and frameworks:
+
+[![HTML5](https://img.shields.io/badge/HTML5-Expert-blue.svg)](https://www.w3.org/TR/html52/)
+[![CSS](https://img.shields.io/badge/CSS-Expert-blue.svg)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Expert-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![SQL](https://img.shields.io/badge/SQL-Expert-blue.svg)](https://www.w3schools.com/sql/)
+[![PHP](https://img.shields.io/badge/PHP-Intermediate-orange.svg)](https://www.php.net/)
+[![React](https://img.shields.io/badge/React-Intermediate-orange.svg)](https://reactjs.org/)
+[![Python](https://img.shields.io/badge/Python-Intermediate-orange.svg)](https://www.python.org/)
+
+## Projects
+
+I've worked on a variety of projects that utilize these technologies. Here are some of the badges related to the technologies I've used in these projects:
+
+[![Power BI](https://img.shields.io/badge/Power%20BI-Learning-yellow.svg)](https://powerbi.microsoft.com/en-us/)
+[![Excel](https://img.shields.io/badge/Excel-Intermediate-orange.svg)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Frontend](https://img.shields.io/badge/Frontend-Expert-brightgreen.svg)](https://developer.mozilla.org/en-US/docs/Web/Front-end)
+[![Backend](https://img.shields.io/badge/Backend-Expert-brightgreen.svg)](https://developer.mozilla.org/en-US/docs/Web/Back-end)
+
+
+
 
 - 🌐 **Website**: [Your Website URL]
 - 📧 **Email**: skarande220@gmail.com
@@ -32,26 +59,4 @@ Thank you for visiting, and I look forward to sharing more exciting updates with
 ---
 
 *Last Updated: 15-10-2023*
-
-## About Me
-
-I'm a technology enthusiast with expertise in the following languages and frameworks:
-
-[![HTML5](https://img.shields.io/badge/HTML5-Expert-blue.svg)](https://www.w3.org/TR/html52/)
-[![CSS](https://img.shields.io/badge/CSS-Expert-blue.svg)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![JavaScript](https://img.shields.io/badge/JavaScript-Expert-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![SQL](https://img.shields.io/badge/SQL-Expert-blue.svg)](https://www.w3schools.com/sql/)
-[![PHP](https://img.shields.io/badge/PHP-Intermediate-orange.svg)](https://www.php.net/)
-[![React](https://img.shields.io/badge/React-Intermediate-orange.svg)](https://reactjs.org/)
-[![Python](https://img.shields.io/badge/Python-Intermediate-orange.svg)](https://www.python.org/)
-
-## Projects
-
-I've worked on a variety of projects that utilize these technologies. Here are some of the badges related to the technologies I've used in these projects:
-
-[![Power BI](https://img.shields.io/badge/Power%20BI-Learning-yellow.svg)](https://powerbi.microsoft.com/en-us/)
-[![Excel](https://img.shields.io/badge/Excel-Intermediate-orange.svg)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![Frontend](https://img.shields.io/badge/Frontend-Expert-brightgreen.svg)](https://developer.mozilla.org/en-US/docs/Web/Front-end)
-[![Backend](https://img.shields.io/badge/Backend-Expert-brightgreen.svg)](https://developer.mozilla.org/en-US/docs/Web/Back-end)
-
 
