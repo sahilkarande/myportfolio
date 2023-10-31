@@ -141,10 +141,14 @@
           </li>
 
           <li class="social-item">
-            <a href="mailto:skarande220@gmail.com" class="social-link">
-              <ion-icon name="logo-google"></ion-icon>
-            </a>
-          </li>
+            <a href="https://mail.google.com/" class="social-link">
+              <ion-icon name="mail-outline"></ion-icon>            </a>
+        </li>
+        
+        <li class="social-item">
+            <a href="https://www.linkedin.com/in/sahil-karande-a77aa7207/" class="social-link">
+              <ion-icon name="logo-linkedin"></ion-icon>            </a>
+        </li>
           <li class="social-item">
             <a href="https://github.com/sahilkarande" class="social-link">
               <ion-icon name="logo-github"></ion-icon>
@@ -887,8 +891,7 @@
 
       </article>
 
-
-
+      <div id="image-overlay"></div>
 
 
       <!--
@@ -952,16 +955,18 @@
 
             <!-- project 2 -->
             <li class="project-item active" data-filter-item data-category="Data Science">
-              <figure class="project-img">
-                   <div class="project-item-icon-box">
-                     <ion-icon name="eye-outline"></ion-icon>
-                   </div>
-                   <img src="assets\images\walmart.png" alt="Walmart Sales Prediction Dashboard" loading="lazy">
-                 </figure>
-             
-                 <h3 class="project-title">Walmart Sales Prediction Dashboard</h3>
-                 
-                 <p class="project-category">Data Science</p>
+              <a href="#"> 
+                <figure class="project-img">
+                    <div class="project-item-icon-box">
+                      <ion-icon name="eye-outline"></ion-icon>
+                    </div>
+                    <img src="assets\images\walmart.png" alt="Walmart Sales Prediction Dashboard" loading="lazy">
+                  </figure>
+              
+                  <h3 class="project-title">Walmart Sales Prediction Dashboard</h3>
+                  
+                  <p class="project-category">Data Science</p>
+              </a>
            </li>
      
       
@@ -985,16 +990,18 @@
 
             <!-- project 1 -->
             <li class="project-item active" data-filter-item data-category="Data Science">
-              <figure class="project-img">
-                   <div class="project-item-icon-box">
-                     <ion-icon name="eye-outline"></ion-icon>
-                   </div>
-                   <img src="assets\images\stocksproject (1).png" alt="Stocks Prediction For BSE And NSE Companies" loading="lazy">
-                 </figure>
-             
-                 <h3 class="project-title">Stocks Prediction For BSE And NSE Companies</h3>
-                 
-                 <p class="project-category">Data Science</p>
+              <a href="#"> 
+                  <figure class="project-img">
+                      <div class="project-item-icon-box">
+                        <ion-icon name="eye-outline"></ion-icon>
+                      </div>
+                      <img src="assets\images\stocksproject (1).png" alt="Stocks Prediction For BSE And NSE Companies" loading="lazy">
+                    </figure>
+                
+                    <h3 class="project-title">Stocks Prediction For BSE And NSE Companies</h3>
+                    
+                    <p class="project-category">Data Science</p>
+              </a>
            </li>
       
             <!-- project 3 -->
@@ -1073,22 +1080,25 @@
       
             <!-- project 1 -->
             <li class="project-item active" data-filter-item data-category="Data Science">
-               <figure class="project-img">
-                    <div class="project-item-icon-box">
-                      <ion-icon name="eye-outline"></ion-icon>
-                    </div>
-                    <img src="assets\images\stocksproject (1).png" alt="Stocks Prediction For BSE And NSE Companies" loading="lazy">
-                  </figure>
-              
-                  <h3 class="project-title">Stocks Prediction For BSE And NSE Companies</h3>
-                  
-                  <p class="project-category">Data Science</p>
+              <a href="#"> 
+                <figure class="project-img">
+                      <div class="project-item-icon-box">
+                        <ion-icon name="eye-outline"></ion-icon>
+                      </div>
+                      <img id="project-image" src="assets\images\stocksproject (1).png" alt="Stocks Prediction For BSE And NSE Companies" loading="lazy">
+                    </figure>
+                
+                    <h3 class="project-title">Stocks Prediction For BSE And NSE Companies</h3>
+                    
+                    <p class="project-category">Data Science</p>
+                </a>
             </li>
       
             
       
             <!-- project 3 -->
             <li class="project-item active" data-filter-item data-category="Data Science">
+              <a href="#"> 
                <figure class="project-img">
                     <div class="project-item-icon-box">
                       <ion-icon name="eye-outline"></ion-icon>
@@ -1099,6 +1109,7 @@
                   <h3 class="project-title">Drug Classification</h3>
                   
                   <p class="project-category">Data Science</p>
+                  </a>
             </li>
       
       
@@ -1107,36 +1118,8 @@
         </section>
       </article>
 
-
-
-
       <script>
-        // JavaScript for filtering projects
-        const filterButtons = document.querySelectorAll('[data-filter-btn]');
-        const projectItems = document.querySelectorAll('[data-filter-item]');
-      
-        filterButtons.forEach(button => {
-          button.addEventListener('click', () => {
-            // Remove the 'active' class from all filter buttons
-            filterButtons.forEach(btn => {
-              btn.classList.remove('active');
-            });
-      
-            const category = button.getAttribute('data-filter-btn');
-      
-            projectItems.forEach(item => {
-              const itemCategory = item.getAttribute('data-category');
-              if (category === 'All' || category === itemCategory) {
-                item.style.display = 'block';
-              } else {
-                item.style.display = 'none';
-              }
-            });
-      
-            // Add the 'active' class to the clicked button
-            button.classList.add('active');
-          });
-        });
+
       </script>
       
 
