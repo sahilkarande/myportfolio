@@ -1792,6 +1792,54 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .navbar-link { font-weight: var(--fw-500); }
 
+  /* download button: start */
+.download-button {
+  display: inline-block;
+  background-color: #fcca64;
+  color: black;
+  text-decoration: none;
+  padding: 1rem 2rem; /* Use relative units for padding */
+  border-radius: 5px;
+  font-size: 1rem; /* Use a relative unit for font size */
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.download-button:hover {
+  background-color: #2255aa;
+  transform: scale(1.1);
+}
+
+.download-icon {
+  display: inline-block;
+  font-size: 1.5rem; /* Use a relative unit for icon size */
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+.download-text {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* Make the button responsive */
+@media (max-width: 768px) {
+  .download-button {
+    background-color: #3366cc; /* Add background color for mobile view */
+    padding: 0.8rem 1.6rem; /* Adjust relative padding for smaller screens */
+    font-size: 0.9rem; /* Adjust relative font size for smaller screens */
+  }
+
+  .download-button:hover {
+    background-color: #2255aa;
+  }
+
+  .download-icon {
+    font-size: 1.2rem; /* Adjust relative icon size for smaller screens */
+  }
+}
+/* download button: end */
+
+  
 
 
   /**
